@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-Webscraper-16137278-5649-4d60-8546-cf303d8742bb</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
+    <PackageReference Include="CoinAPI.REST.V1" Version="3.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Config\" />
+    <None Remove="Data\" />
+    <None Remove="Data\Raw\" />
+    <None Remove="Data\Processed\" />
+    <None Remove="Logs\" />
+    <None Remove="Src\" />
+    <None Remove="Src\Producers\" />
+    <None Remove="Src\Consumers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Data\" />
+    <Folder Include="Data\Raw\" />
+    <Folder Include="Data\Processed\" />
+    <Folder Include="Logs\" />
+    <Folder Include="Src\" />
+    <Folder Include="Src\Producers\" />
+    <Folder Include="Src\Consumers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Data\Processed\bitcoinRate.json" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,80 @@
+[
+  {
+    "time": "2023-09-04T13:22:39Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25876.61142858741
+  },
+  {
+    "time": "2023-09-04T13:22:42Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25876.57755051793
+  },
+  {
+    "time": "2023-09-04T13:22:44Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25876.579132341252
+  },
+  {
+    "time": "2023-09-04T13:22:45Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25876.57941936175
+  },
+  {
+    "time": "2023-09-04T13:26:12Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25889.347144135267
+  },
+  {
+    "time": "2023-09-04T13:26:14Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25889.35874154504
+  },
+  {
+    "time": "2023-09-04T13:26:16Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25890.269260067533
+  },
+  {
+    "time": "2023-09-04T13:26:18Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25892.782080917044
+  },
+  {
+    "time": "2023-09-04T13:26:21Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25893.89612397633
+  },
+  {
+    "time": "2023-09-04T13:26:23Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25895.47001435897
+  },
+  {
+    "time": "2023-09-04T13:26:26Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25897.910604278644
+  },
+  {
+    "time": "2023-09-04T13:26:28Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25897.911234412502
+  },
+  {
+    "time": "2023-09-04T13:26:32Z",
+    "asset_id_base": "BTC",
+    "asset_id_quote": "USD",
+    "rate": 25897.871213009577
+  }
+]
